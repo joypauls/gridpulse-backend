@@ -1,5 +1,7 @@
 import requests
 import logging
+from typing import Optional
+
 from gridpulse_backend.config import EIA_API_KEY, EIA_BASE_URL
 
 
@@ -9,19 +11,20 @@ class EIAClient:
         self.base_url = EIA_BASE_URL
         self.session = requests.Session()
 
-    def fetch_us_hourly_generation(self) -> dict:
+    def fetch_daily_generation(
+        self, start_date: str, end_date: Optional[str] = None
+    ) -> dict:
         try:
             response = self.session.get(
                 self.base_url,
                 params={
                     "api_key": self.api_key,
-                    "frequency": "hourly",
+                    "frequency": "daily",
                     "data[0]": "value",
                     "facets[respondent][]": ["US48"],
-                    "start": "2025-05-25T02",
-                    "end": "2025-05-25T03",
-                    # "start": None,
-                    # "end": None,
+                    "start": start_date,
+                    # "end": "2025-05-25T12",
+                    "end": end_date,
                     "sort[0][column]": "period",
                     "sort[0][direction]": "desc",
                     "offset": 0,
