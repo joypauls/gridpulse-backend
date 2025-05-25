@@ -1,5 +1,5 @@
-from datetime import datetime
+from datetime import datetime, timezone
 
 
-def now_iso() -> str:
-    return datetime.utcnow().isoformat() + "Z"
+def now_utc_iso() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H")

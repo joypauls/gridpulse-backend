@@ -16,12 +16,16 @@ class EIAClient:
                 params={
                     "api_key": self.api_key,
                     "frequency": "hourly",
-                    "data[]": ["value"],
-                    "facets[region]": ["US"],
+                    "data[0]": "value",
+                    "facets[respondent][]": ["US48"],
+                    "start": "2025-05-25T02",
+                    "end": "2025-05-25T03",
+                    # "start": None,
+                    # "end": None,
                     "sort[0][column]": "period",
                     "sort[0][direction]": "desc",
                     "offset": 0,
-                    "length": 1,
+                    "length": 5000,
                 },
             )
             response.raise_for_status()
