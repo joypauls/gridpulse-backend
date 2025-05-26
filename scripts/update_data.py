@@ -106,8 +106,13 @@ def get_latest_period(df: pd.DataFrame) -> str:
     return df["period"].max()
 
 
-def get_latest_type_values(df: pd.DataFrame, type_name: str) -> Tuple[int, float]:
-    latest_period_df = df[df["period"] == get_latest_period(df)]
+def get_latest_type_values(
+    df: pd.DataFrame, type_name: str, timezone: str = "Central"
+) -> Tuple[int, float]:
+
+    latest_period_df = df[
+        (df["period"] == get_latest_period(df)) & (df["timezone"] == timezone)
+    ]
 
     # get renewables and total values
     type_value = latest_period_df[latest_period_df["type_name"] == type_name][
@@ -155,11 +160,23 @@ def main():
     raw_response["latest"]["date"] = get_latest_period(processed_data_df)
 
     value, percent = get_latest_type_values(processed_data_df, "Renewables")
-    raw_response["latest"]["renewables"] = {"value": value, "percent": percent}
+    raw_response["latest"]["renewables"] = {
+        "megawatthours": value,
+        "gigawatthours": round(value / 1000, 0),
+        "percent": percent,
+    }
     value, percent = get_latest_type_values(processed_data_df, "Fossil Fuels")
-    raw_response["latest"]["fossil_fuels"] = {"value": value, "percent": percent}
+    raw_response["latest"]["fossil_fuels"] = {
+        "megawatthours": value,
+        "gigawatthours": round(value / 1000, 0),
+        "percent": percent,
+    }
     value, percent = get_latest_type_values(processed_data_df, "Nuclear")
-    raw_response["latest"]["nuclear"] = {"value": value, "percent": percent}
+    raw_response["latest"]["nuclear"] = {
+        "megawatthours": value,
+        "gigawatthours": round(value / 1000, 0),
+        "percent": percent,
+    }
 
     # pprint(raw_response["latest"])
     # print(add_total(raw_records_df))
