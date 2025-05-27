@@ -1,8 +1,9 @@
 from datetime import datetime, timezone, timedelta
+import pytz
 
 
-# def now_utc_iso() -> str:
-#     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H")
+def get_now_central_string() -> str:
+    return datetime.now(pytz.timezone("US/Central")).strftime("%Y-%m-%d %H:%M")
 
 
 def get_today_string() -> str:

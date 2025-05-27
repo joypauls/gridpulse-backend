@@ -4,6 +4,7 @@ from typing import Tuple
 
 from gridpulse_backend.data_fetcher import get_latest_seven_day_energy_mix
 from gridpulse_backend.data_writer import write_json
+from gridpulse_backend.utils import get_now_central_string
 
 
 RENEWABLE_TYPES = {
@@ -32,7 +33,30 @@ VALID_GENERATION_TYPES = {
     "Wind with integrated battery storage",
     "Hydro",
     "Geothermal",
+    "Other",
+    "Unknown",
 }
+
+VALID_TYPE_GROUPS = {
+    "Renewables": ["Renewables"],
+    "Fossil Fuels": ["Fossil Fuels"],
+    "Solar": ["Solar", "Solar with integrated battery storage"],
+    "Wind": ["Wind", "Wind with integrated battery storage"],
+    "Hydro": ["Hydro"],
+    # "Geothermal": ["Geothermal"],
+    "Nuclear": ["Nuclear"],
+    "Coal": ["Coal"],
+    "Natural Gas": ["Natural Gas"],
+    "Other": ["Other", "Unknown", "Petroleum", "Geothermal"],
+    # "Petroleum": ["Petroleum"],
+}
+
+DISPLAY_TYPE_GROUPS = list(VALID_TYPE_GROUPS.keys())
+
+
+def type_to_col_name(type_name: str) -> str:
+    """Convert " " to "_" and lowercase the type name."""
+    return type_name.replace(" ", "_").lower()
 
 
 def add_renewables(df: pd.DataFrame) -> pd.DataFrame:
@@ -114,10 +138,13 @@ def get_latest_type_values(
         (df["period"] == get_latest_period(df)) & (df["timezone"] == timezone)
     ]
 
-    # get renewables and total values
-    type_value = latest_period_df[latest_period_df["type_name"] == type_name][
-        "value"
-    ].values[0]
+    # get totals taking into account grouped types
+    type_value = 0
+    for subtype in VALID_TYPE_GROUPS[type_name]:
+        subtype_value = latest_period_df[latest_period_df["type_name"] == subtype][
+            "value"
+        ].values[0]
+        type_value += subtype_value
     total_value = latest_period_df[latest_period_df["type_name"] == "Total"][
         "value"
     ].values[0]
@@ -158,25 +185,16 @@ def main():
     raw_response["data"] = processed_data
     raw_response["latest"] = {}
     raw_response["latest"]["date"] = get_latest_period(processed_data_df)
+    raw_response["latest"]["updated"] = get_now_central_string()
 
-    value, percent = get_latest_type_values(processed_data_df, "Renewables")
-    raw_response["latest"]["renewables"] = {
-        "megawatthours": value,
-        "gigawatthours": round(value / 1000, 0),
-        "percent": percent,
-    }
-    value, percent = get_latest_type_values(processed_data_df, "Fossil Fuels")
-    raw_response["latest"]["fossil_fuels"] = {
-        "megawatthours": value,
-        "gigawatthours": round(value / 1000, 0),
-        "percent": percent,
-    }
-    value, percent = get_latest_type_values(processed_data_df, "Nuclear")
-    raw_response["latest"]["nuclear"] = {
-        "megawatthours": value,
-        "gigawatthours": round(value / 1000, 0),
-        "percent": percent,
-    }
+    for type_name in DISPLAY_TYPE_GROUPS:
+        value, percent = get_latest_type_values(processed_data_df, type_name)
+        raw_response["latest"][type_to_col_name(type_name)] = {
+            "megawatthours": value,
+            "gigawatthours": int(round(value / 1000, 0)),
+            "percent": percent,
+            "source": type_name,
+        }
 
     # pprint(raw_response["latest"])
     # print(add_total(raw_records_df))
