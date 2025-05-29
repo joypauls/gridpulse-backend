@@ -1,5 +1,5 @@
-from gridpulse_backend.eia_client import EIAClient
-from gridpulse_backend.utils import get_yesterday_string, get_minus_n_days_string
+from dailygrid_backend.eia_client import EIAClient
+from dailygrid_backend.utils import get_yesterday_string, get_minus_n_days_string
 
 
 def get_latest_seven_day_energy_mix() -> dict:

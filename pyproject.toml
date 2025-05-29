@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "gridpulse-backend"
+name = "dailygrid-backend"
 version = "0.1.0"
 description = ""
 authors = ["joypauls <joypaulsen3@gmail.com>"]
 readme = "README.md"
-packages = [{ include = "gridpulse_backend" }]
+packages = [{ include = "dailygrid_backend" }]
 
 [tool.poetry.dependencies]
 python = "^3.13"

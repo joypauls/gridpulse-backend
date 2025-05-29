@@ -1,10 +1,10 @@
-from pprint import pprint
+# from pprint import pprint
 import pandas as pd
 from typing import Tuple
 
-from gridpulse_backend.data_fetcher import get_latest_seven_day_energy_mix
-from gridpulse_backend.data_writer import write_json
-from gridpulse_backend.utils import get_now_central_string
+from dailygrid_backend.data_fetcher import get_latest_seven_day_energy_mix
+from dailygrid_backend.data_writer import write_json
+from dailygrid_backend.utils import get_now_central_string
 
 
 RENEWABLE_TYPES = {

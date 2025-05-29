@@ -2,7 +2,7 @@ import requests
 import logging
 from typing import Optional
 
-from gridpulse_backend.config import EIA_API_KEY, EIA_BASE_URL
+from dailygrid_backend.config import EIA_API_KEY, EIA_BASE_URL
 
 
 class EIAClient:

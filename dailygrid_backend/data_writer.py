@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from gridpulse_backend.config import OUTPUT_FILE
+from dailygrid_backend.config import OUTPUT_FILE
 
 
 def write_json(data: dict, path: str = OUTPUT_FILE):
