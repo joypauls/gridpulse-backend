@@ -183,10 +183,11 @@ def main():
     # mimic structure of the original data
     processed_data = processed_data_df.to_dict(orient="records")
     raw_response["data"] = processed_data
+
+    # add latest period and values for main visuals
     raw_response["latest"] = {}
     raw_response["latest"]["date"] = get_latest_period(processed_data_df)
     raw_response["latest"]["updated"] = get_now_central_string()
-
     for type_name in DISPLAY_TYPE_GROUPS:
         value, percent = get_latest_type_values(processed_data_df, type_name)
         raw_response["latest"][type_to_col_name(type_name)] = {
@@ -195,6 +196,25 @@ def main():
             "percent": percent,
             "source": type_name,
         }
+
+    # calculate total for all dates
+    all_dates = processed_data_df["period"].unique()
+    total_history = []
+    for date in all_dates:
+        date_total_df = processed_data_df[
+            (processed_data_df["period"] == date)
+            & (processed_data_df["type_name"] == "Total")
+        ]
+        total = date_total_df["value"].values[0]
+        total_history.append(
+            {
+                "date": date,
+                "megawatthours": int(total),
+                "gigawatthours": int(round(total / 1000, 0)),
+            }
+        )
+    raw_response["history"] = {}
+    raw_response["history"]["total"] = total_history
 
     # pprint(raw_response["latest"])
     # print(add_total(raw_records_df))
