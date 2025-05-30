@@ -10,4 +10,4 @@ clean:
 	rm -f data/daily_energy_mix_latest.json
 
 copy-local:
-	cp data/daily_energy_mix_latest.json ../dailygrid.dev/src/data/daily_energy_mix_latest.json
+	cp public/data/daily_energy_mix_latest.json ../dailygrid.dev/src/data/daily_energy_mix_latest.json
