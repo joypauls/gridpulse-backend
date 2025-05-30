@@ -27,7 +27,7 @@ jobs:
           echo "$HOME/.local/bin" >> $GITHUB_PATH
 
       - name: Install dependencies
-        run: poetry install --no-root
+        run: poetry install
 
       - name: Run data update script
         run: poetry run update_data
