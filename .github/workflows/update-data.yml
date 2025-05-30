@@ -30,7 +30,7 @@ jobs:
         run: poetry install --no-root
 
       - name: Run data update script
-        run: poetry run python update_data.py
+        run: poetry run update_data.py
         # env:
         #   PYTHONPATH: ${{ github.workspace }}
 
