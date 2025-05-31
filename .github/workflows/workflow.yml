@@ -34,11 +34,22 @@ jobs:
 
       - name: Commit updated JSON to GitHub Pages
         run: |
+          # Configure Git
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          # Create a clean working directory for gh-pages branch
           git fetch origin gh-pages
-          git switch gh-pages
-          cp public/data/daily_energy_mix_latest.json data/daily_energy_mix_latest.json
+          git worktree add gh-pages-dir gh-pages
+
+          # Copy the new data into that dir
+          cp public/data/daily_energy_mix_latest.json gh-pages-dir/data/daily_energy_mix_latest.json
+
+          cd gh-pages-dir
           git add data/daily_energy_mix_latest.json
-          git commit -m "Update data ($(date -u))" || echo "No changes"
+          git commit -m "Update data ($(date -u))" || echo "No changes to commit"
           git push origin gh-pages
+
+          # Clean up
+          cd ..
+          git worktree remove gh-pages-dir
