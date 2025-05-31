@@ -53,3 +53,9 @@ jobs:
           # Clean up
           cd ..
           git worktree remove gh-pages-dir
+
+      - name: Notify Vercel to redeploy
+        run: |
+          echo "Triggering Vercel redeploy"
+          curl -X POST ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+          echo "Deploy triggered"
