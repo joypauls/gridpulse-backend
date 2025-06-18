@@ -4,1051 +4,6 @@
   "frequency": "daily",
   "data": [
     {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "BAT",
-      "type_name": "Battery storage",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 21104,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "BAT",
-      "type_name": "Battery storage",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 21642,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "BAT",
-      "type_name": "Battery storage",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 22444,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "BAT",
-      "type_name": "Battery storage",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 21237,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "BAT",
-      "type_name": "Battery storage",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 21104,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "COL",
-      "type_name": "Coal",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 1713085,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "COL",
-      "type_name": "Coal",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 1697922,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "COL",
-      "type_name": "Coal",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 1689956,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "COL",
-      "type_name": "Coal",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 1705883,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "COL",
-      "type_name": "Coal",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 1713085,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Fossil Fuels",
-      "type_name": "Fossil Fuels",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 6081730,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Fossil Fuels",
-      "type_name": "Fossil Fuels",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 6032703,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Fossil Fuels",
-      "type_name": "Fossil Fuels",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 6012530,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Fossil Fuels",
-      "type_name": "Fossil Fuels",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 6057267,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Fossil Fuels",
-      "type_name": "Fossil Fuels",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 6081730,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "GEO",
-      "type_name": "Geothermal",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 11552,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "GEO",
-      "type_name": "Geothermal",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 11523,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "GEO",
-      "type_name": "Geothermal",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 11522,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "GEO",
-      "type_name": "Geothermal",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 11521,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "GEO",
-      "type_name": "Geothermal",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 11552,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NG",
-      "type_name": "Natural Gas",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 4356402,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NG",
-      "type_name": "Natural Gas",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 4322539,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NG",
-      "type_name": "Natural Gas",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 4310360,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NG",
-      "type_name": "Natural Gas",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 4339142,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NG",
-      "type_name": "Natural Gas",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 4356402,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NUC",
-      "type_name": "Nuclear",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 2125484,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NUC",
-      "type_name": "Nuclear",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 2124716,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NUC",
-      "type_name": "Nuclear",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 2124451,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NUC",
-      "type_name": "Nuclear",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 2125158,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "NUC",
-      "type_name": "Nuclear",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 2125484,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OES",
-      "type_name": "Other energy storage",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OES",
-      "type_name": "Other energy storage",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OES",
-      "type_name": "Other energy storage",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OES",
-      "type_name": "Other energy storage",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OES",
-      "type_name": "Other energy storage",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OIL",
-      "type_name": "Petroleum",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 12243,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OIL",
-      "type_name": "Petroleum",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 12242,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OIL",
-      "type_name": "Petroleum",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 12214,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OIL",
-      "type_name": "Petroleum",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 12242,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OIL",
-      "type_name": "Petroleum",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 12243,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OTH",
-      "type_name": "Other",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 97813,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OTH",
-      "type_name": "Other",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 97849,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OTH",
-      "type_name": "Other",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 98555,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OTH",
-      "type_name": "Other",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 97673,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "OTH",
-      "type_name": "Other",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 97813,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "PS",
-      "type_name": "Pumped storage",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": -7098,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "PS",
-      "type_name": "Pumped storage",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": -5397,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "PS",
-      "type_name": "Pumped storage",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": -4790,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "PS",
-      "type_name": "Pumped storage",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": -6505,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "PS",
-      "type_name": "Pumped storage",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": -7098,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Renewables",
-      "type_name": "Renewables",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 3405827,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Renewables",
-      "type_name": "Renewables",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 3437604,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Renewables",
-      "type_name": "Renewables",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 3450288,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Renewables",
-      "type_name": "Renewables",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 3422968,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Renewables",
-      "type_name": "Renewables",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 3405827,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SNB",
-      "type_name": "Solar with integrated battery storage",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 9054,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SNB",
-      "type_name": "Solar with integrated battery storage",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 8936,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SNB",
-      "type_name": "Solar with integrated battery storage",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 8919,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SNB",
-      "type_name": "Solar with integrated battery storage",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 9055,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SNB",
-      "type_name": "Solar with integrated battery storage",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 9054,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SUN",
-      "type_name": "Solar",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 905098,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SUN",
-      "type_name": "Solar",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 904648,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SUN",
-      "type_name": "Solar",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 904649,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SUN",
-      "type_name": "Solar",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 904921,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "SUN",
-      "type_name": "Solar",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 905098,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Total",
-      "type_name": "Total",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 11710854,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Total",
-      "type_name": "Total",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 11692872,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Total",
-      "type_name": "Total",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 11685824,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Total",
-      "type_name": "Total",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 11703066,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "Total",
-      "type_name": "Total",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 11710854,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UES",
-      "type_name": "Unknown energy storage",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": -25487,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UES",
-      "type_name": "Unknown energy storage",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": -24065,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UES",
-      "type_name": "Unknown energy storage",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": -23447,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UES",
-      "type_name": "Unknown energy storage",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": -24731,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UES",
-      "type_name": "Unknown energy storage",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": -25487,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UNK",
-      "type_name": "Unknown",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UNK",
-      "type_name": "Unknown",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UNK",
-      "type_name": "Unknown",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UNK",
-      "type_name": "Unknown",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "UNK",
-      "type_name": "Unknown",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WAT",
-      "type_name": "Hydro",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 853556,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WAT",
-      "type_name": "Hydro",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 857350,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WAT",
-      "type_name": "Hydro",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 859911,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WAT",
-      "type_name": "Hydro",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 855210,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WAT",
-      "type_name": "Hydro",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 853556,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WNB",
-      "type_name": "Wind with integrated battery storage",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WNB",
-      "type_name": "Wind with integrated battery storage",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WNB",
-      "type_name": "Wind with integrated battery storage",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WNB",
-      "type_name": "Wind with integrated battery storage",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WNB",
-      "type_name": "Wind with integrated battery storage",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 0,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WND",
-      "type_name": "Wind",
-      "timezone": "Arizona",
-      "timezone_description": "Arizona",
-      "value": 1626567,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WND",
-      "type_name": "Wind",
-      "timezone": "Central",
-      "timezone_description": "Central",
-      "value": 1655147,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WND",
-      "type_name": "Wind",
-      "timezone": "Eastern",
-      "timezone_description": "Eastern",
-      "value": 1665287,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WND",
-      "type_name": "Wind",
-      "timezone": "Mountain",
-      "timezone_description": "Mountain",
-      "value": 1642261,
-      "value_units": "megawatthours"
-    },
-    {
-      "period": "2025-06-03",
-      "respondent": "US48",
-      "respondent_name": "United States Lower 48",
-      "fueltype": "WND",
-      "type_name": "Wind",
-      "timezone": "Pacific",
-      "timezone_description": "Pacific",
-      "value": 1626567,
-      "value_units": "megawatthours"
-    },
-    {
       "period": "2025-06-04",
       "respondent": "US48",
       "respondent_name": "United States Lower 48",
@@ -1111,7 +66,7 @@
       "type_name": "Coal",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 1982648,
+      "value": 1982616,
       "value_units": "megawatthours"
     },
     {
@@ -1122,7 +77,7 @@
       "type_name": "Coal",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 1964999,
+      "value": 1964967,
       "value_units": "megawatthours"
     },
     {
@@ -1133,7 +88,7 @@
       "type_name": "Coal",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 1956769,
+      "value": 1956737,
       "value_units": "megawatthours"
     },
     {
@@ -1144,7 +99,7 @@
       "type_name": "Coal",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 1974187,
+      "value": 1974155,
       "value_units": "megawatthours"
     },
     {
@@ -1155,7 +110,7 @@
       "type_name": "Coal",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 1982648,
+      "value": 1982616,
       "value_units": "megawatthours"
     },
     {
@@ -1166,7 +121,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 7025639,
+      "value": 7025993,
       "value_units": "megawatthours"
     },
     {
@@ -1177,7 +132,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 6967647,
+      "value": 6967977,
       "value_units": "megawatthours"
     },
     {
@@ -1188,7 +143,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 6937784,
+      "value": 6938646,
       "value_units": "megawatthours"
     },
     {
@@ -1199,7 +154,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 6996989,
+      "value": 6997330,
       "value_units": "megawatthours"
     },
     {
@@ -1210,7 +165,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 7025639,
+      "value": 7025993,
       "value_units": "megawatthours"
     },
     {
@@ -1276,7 +231,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 5028777,
+      "value": 5029163,
       "value_units": "megawatthours"
     },
     {
@@ -1287,7 +242,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 4988417,
+      "value": 4988779,
       "value_units": "megawatthours"
     },
     {
@@ -1298,7 +253,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 4966753,
+      "value": 4967647,
       "value_units": "megawatthours"
     },
     {
@@ -1309,7 +264,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 5008578,
+      "value": 5008951,
       "value_units": "megawatthours"
     },
     {
@@ -1320,7 +275,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 5028777,
+      "value": 5029163,
       "value_units": "megawatthours"
     },
     {
@@ -1496,7 +451,7 @@
       "type_name": "Other",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 113874,
+      "value": 118468,
       "value_units": "megawatthours"
     },
     {
@@ -1507,7 +462,7 @@
       "type_name": "Other",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 104158,
+      "value": 108766,
       "value_units": "megawatthours"
     },
     {
@@ -1518,7 +473,7 @@
       "type_name": "Other",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 101168,
+      "value": 105787,
       "value_units": "megawatthours"
     },
     {
@@ -1529,7 +484,7 @@
       "type_name": "Other",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 107687,
+      "value": 112285,
       "value_units": "megawatthours"
     },
     {
@@ -1540,7 +495,7 @@
       "type_name": "Other",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 113874,
+      "value": 118468,
       "value_units": "megawatthours"
     },
     {
@@ -1606,7 +561,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2520195,
+      "value": 2534014,
       "value_units": "megawatthours"
     },
     {
@@ -1617,7 +572,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2575075,
+      "value": 2588900,
       "value_units": "megawatthours"
     },
     {
@@ -1628,7 +583,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2601469,
+      "value": 2615294,
       "value_units": "megawatthours"
     },
     {
@@ -1639,7 +594,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2546998,
+      "value": 2560821,
       "value_units": "megawatthours"
     },
     {
@@ -1650,7 +605,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2520195,
+      "value": 2534014,
       "value_units": "megawatthours"
     },
     {
@@ -1661,7 +616,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 8412,
+      "value": 10821,
       "value_units": "megawatthours"
     },
     {
@@ -1672,7 +627,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 8472,
+      "value": 10881,
       "value_units": "megawatthours"
     },
     {
@@ -1683,7 +638,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 8569,
+      "value": 10978,
       "value_units": "megawatthours"
     },
     {
@@ -1694,7 +649,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 8422,
+      "value": 10831,
       "value_units": "megawatthours"
     },
     {
@@ -1705,7 +660,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 8412,
+      "value": 10821,
       "value_units": "megawatthours"
     },
     {
@@ -1716,7 +671,7 @@
       "type_name": "Solar",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 836997,
+      "value": 848321,
       "value_units": "megawatthours"
     },
     {
@@ -1727,7 +682,7 @@
       "type_name": "Solar",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 836771,
+      "value": 848095,
       "value_units": "megawatthours"
     },
     {
@@ -1738,7 +693,7 @@
       "type_name": "Solar",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 836511,
+      "value": 847835,
       "value_units": "megawatthours"
     },
     {
@@ -1749,7 +704,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 836923,
+      "value": 848247,
       "value_units": "megawatthours"
     },
     {
@@ -1760,7 +715,7 @@
       "type_name": "Solar",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 836997,
+      "value": 848321,
       "value_units": "megawatthours"
     },
     {
@@ -1771,7 +726,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 11812770,
+      "value": 11831537,
       "value_units": "megawatthours"
     },
     {
@@ -1782,7 +737,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 11797033,
+      "value": 11815796,
       "value_units": "megawatthours"
     },
     {
@@ -1793,7 +748,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 11788969,
+      "value": 11808275,
       "value_units": "megawatthours"
     },
     {
@@ -1804,7 +759,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 11803344,
+      "value": 11822106,
       "value_units": "megawatthours"
     },
     {
@@ -1815,7 +770,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 11812770,
+      "value": 11831537,
       "value_units": "megawatthours"
     },
     {
@@ -1936,7 +891,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 836569,
+      "value": 836655,
       "value_units": "megawatthours"
     },
     {
@@ -1947,7 +902,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 834939,
+      "value": 835031,
       "value_units": "megawatthours"
     },
     {
@@ -1958,7 +913,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 834113,
+      "value": 834205,
       "value_units": "megawatthours"
     },
     {
@@ -1969,7 +924,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 835969,
+      "value": 836059,
       "value_units": "megawatthours"
     },
     {
@@ -1980,7 +935,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 836569,
+      "value": 836655,
       "value_units": "megawatthours"
     },
     {
@@ -3212,7 +2167,7 @@
       "type_name": "Coal",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2170196,
+      "value": 2170195,
       "value_units": "megawatthours"
     },
     {
@@ -3223,7 +2178,7 @@
       "type_name": "Coal",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2168609,
+      "value": 2168608,
       "value_units": "megawatthours"
     },
     {
@@ -3234,7 +2189,7 @@
       "type_name": "Coal",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2172067,
+      "value": 2172066,
       "value_units": "megawatthours"
     },
     {
@@ -3256,7 +2211,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 7615115,
+      "value": 7628996,
       "value_units": "megawatthours"
     },
     {
@@ -3267,7 +2222,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 7634243,
+      "value": 7648134,
       "value_units": "megawatthours"
     },
     {
@@ -3278,7 +2233,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 7642720,
+      "value": 7656103,
       "value_units": "megawatthours"
     },
     {
@@ -3289,7 +2244,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 7625171,
+      "value": 7639053,
       "value_units": "megawatthours"
     },
     {
@@ -3300,7 +2255,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 7615115,
+      "value": 7628996,
       "value_units": "megawatthours"
     },
     {
@@ -3366,7 +2321,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 5413570,
+      "value": 5427451,
       "value_units": "megawatthours"
     },
     {
@@ -3377,7 +2332,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 5433047,
+      "value": 5446939,
       "value_units": "megawatthours"
     },
     {
@@ -3388,7 +2343,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 5442152,
+      "value": 5455536,
       "value_units": "megawatthours"
     },
     {
@@ -3399,7 +2354,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 5422661,
+      "value": 5436544,
       "value_units": "megawatthours"
     },
     {
@@ -3410,7 +2365,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 5413570,
+      "value": 5427451,
       "value_units": "megawatthours"
     },
     {
@@ -3586,7 +2541,7 @@
       "type_name": "Other",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 126074,
+      "value": 130401,
       "value_units": "megawatthours"
     },
     {
@@ -3597,7 +2552,7 @@
       "type_name": "Other",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 128759,
+      "value": 133093,
       "value_units": "megawatthours"
     },
     {
@@ -3608,7 +2563,7 @@
       "type_name": "Other",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 130082,
+      "value": 134245,
       "value_units": "megawatthours"
     },
     {
@@ -3619,7 +2574,7 @@
       "type_name": "Other",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 126951,
+      "value": 131278,
       "value_units": "megawatthours"
     },
     {
@@ -3630,7 +2585,7 @@
       "type_name": "Other",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 126074,
+      "value": 130401,
       "value_units": "megawatthours"
     },
     {
@@ -3696,7 +2651,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2504430,
+      "value": 2529372,
       "value_units": "megawatthours"
     },
     {
@@ -3707,7 +2662,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2482447,
+      "value": 2507390,
       "value_units": "megawatthours"
     },
     {
@@ -3718,7 +2673,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2470166,
+      "value": 2495106,
       "value_units": "megawatthours"
     },
     {
@@ -3729,7 +2684,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2493707,
+      "value": 2518648,
       "value_units": "megawatthours"
     },
     {
@@ -3740,7 +2695,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2504430,
+      "value": 2529372,
       "value_units": "megawatthours"
     },
     {
@@ -3751,7 +2706,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 9526,
+      "value": 12109,
       "value_units": "megawatthours"
     },
     {
@@ -3762,7 +2717,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 9626,
+      "value": 12209,
       "value_units": "megawatthours"
     },
     {
@@ -3773,7 +2728,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 9567,
+      "value": 12150,
       "value_units": "megawatthours"
     },
     {
@@ -3784,7 +2739,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 9537,
+      "value": 12120,
       "value_units": "megawatthours"
     },
     {
@@ -3795,7 +2750,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 9526,
+      "value": 12109,
       "value_units": "megawatthours"
     },
     {
@@ -3806,7 +2761,7 @@
       "type_name": "Solar",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 942187,
+      "value": 964478,
       "value_units": "megawatthours"
     },
     {
@@ -3817,7 +2772,7 @@
       "type_name": "Solar",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 941847,
+      "value": 964138,
       "value_units": "megawatthours"
     },
     {
@@ -3828,7 +2783,7 @@
       "type_name": "Solar",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 941880,
+      "value": 964171,
       "value_units": "megawatthours"
     },
     {
@@ -3839,7 +2794,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 942113,
+      "value": 964404,
       "value_units": "megawatthours"
     },
     {
@@ -3850,7 +2805,7 @@
       "type_name": "Solar",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 942187,
+      "value": 964478,
       "value_units": "megawatthours"
     },
     {
@@ -3861,7 +2816,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 12409682,
+      "value": 12452832,
       "value_units": "megawatthours"
     },
     {
@@ -3872,7 +2827,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 12406274,
+      "value": 12449442,
       "value_units": "megawatthours"
     },
     {
@@ -3883,7 +2838,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 12402308,
+      "value": 12444794,
       "value_units": "megawatthours"
     },
     {
@@ -3894,7 +2849,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 12408209,
+      "value": 12451359,
       "value_units": "megawatthours"
     },
     {
@@ -3905,7 +2860,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 12409682,
+      "value": 12452832,
       "value_units": "megawatthours"
     },
     {
@@ -4026,7 +2981,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 826149,
+      "value": 826217,
       "value_units": "megawatthours"
     },
     {
@@ -4037,7 +2992,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 827487,
+      "value": 827556,
       "value_units": "megawatthours"
     },
     {
@@ -4048,7 +3003,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 828399,
+      "value": 828465,
       "value_units": "megawatthours"
     },
     {
@@ -4059,7 +3014,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 826663,
+      "value": 826730,
       "value_units": "megawatthours"
     },
     {
@@ -4070,7 +3025,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 826149,
+      "value": 826217,
       "value_units": "megawatthours"
     },
     {
@@ -4301,7 +3256,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 6840680,
+      "value": 6853653,
       "value_units": "megawatthours"
     },
     {
@@ -4312,7 +3267,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 6862087,
+      "value": 6875811,
       "value_units": "megawatthours"
     },
     {
@@ -4323,7 +3278,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 6869531,
+      "value": 6883243,
       "value_units": "megawatthours"
     },
     {
@@ -4334,7 +3289,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 6852175,
+      "value": 6865524,
       "value_units": "megawatthours"
     },
     {
@@ -4345,7 +3300,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 6840680,
+      "value": 6853653,
       "value_units": "megawatthours"
     },
     {
@@ -4411,7 +3366,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 4859574,
+      "value": 4872547,
       "value_units": "megawatthours"
     },
     {
@@ -4422,7 +3377,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 4870953,
+      "value": 4884677,
       "value_units": "megawatthours"
     },
     {
@@ -4433,7 +3388,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 4875799,
+      "value": 4889511,
       "value_units": "megawatthours"
     },
     {
@@ -4444,7 +3399,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 4865723,
+      "value": 4879072,
       "value_units": "megawatthours"
     },
     {
@@ -4455,7 +3410,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 4859574,
+      "value": 4872547,
       "value_units": "megawatthours"
     },
     {
@@ -4631,7 +3586,7 @@
       "type_name": "Other",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 126255,
+      "value": 131415,
       "value_units": "megawatthours"
     },
     {
@@ -4642,7 +3597,7 @@
       "type_name": "Other",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 125786,
+      "value": 130848,
       "value_units": "megawatthours"
     },
     {
@@ -4653,7 +3608,7 @@
       "type_name": "Other",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 125277,
+      "value": 130298,
       "value_units": "megawatthours"
     },
     {
@@ -4664,7 +3619,7 @@
       "type_name": "Other",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 126493,
+      "value": 131609,
       "value_units": "megawatthours"
     },
     {
@@ -4675,7 +3630,7 @@
       "type_name": "Other",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 126255,
+      "value": 131415,
       "value_units": "megawatthours"
     },
     {
@@ -4741,7 +3696,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2671072,
+      "value": 2696850,
       "value_units": "megawatthours"
     },
     {
@@ -4752,7 +3707,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2670606,
+      "value": 2696383,
       "value_units": "megawatthours"
     },
     {
@@ -4763,7 +3718,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2675446,
+      "value": 2701224,
       "value_units": "megawatthours"
     },
     {
@@ -4774,7 +3729,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2668977,
+      "value": 2694754,
       "value_units": "megawatthours"
     },
     {
@@ -4785,7 +3740,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2671072,
+      "value": 2696850,
       "value_units": "megawatthours"
     },
     {
@@ -4796,7 +3751,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 8339,
+      "value": 11694,
       "value_units": "megawatthours"
     },
     {
@@ -4807,7 +3762,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 8164,
+      "value": 11519,
       "value_units": "megawatthours"
     },
     {
@@ -4818,7 +3773,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 8094,
+      "value": 11450,
       "value_units": "megawatthours"
     },
     {
@@ -4829,7 +3784,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 8251,
+      "value": 11606,
       "value_units": "megawatthours"
     },
     {
@@ -4840,7 +3795,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 8339,
+      "value": 11694,
       "value_units": "megawatthours"
     },
     {
@@ -4851,7 +3806,7 @@
       "type_name": "Solar",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 973996,
+      "value": 996340,
       "value_units": "megawatthours"
     },
     {
@@ -4862,7 +3817,7 @@
       "type_name": "Solar",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 974091,
+      "value": 996435,
       "value_units": "megawatthours"
     },
     {
@@ -4873,7 +3828,7 @@
       "type_name": "Solar",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 973842,
+      "value": 996186,
       "value_units": "megawatthours"
     },
     {
@@ -4884,7 +3839,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 974007,
+      "value": 996351,
       "value_units": "megawatthours"
     },
     {
@@ -4895,7 +3850,7 @@
       "type_name": "Solar",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 973996,
+      "value": 996340,
       "value_units": "megawatthours"
     },
     {
@@ -4906,7 +3861,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 11835547,
+      "value": 11879458,
       "value_units": "megawatthours"
     },
     {
@@ -4917,7 +3872,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 11857271,
+      "value": 11901834,
       "value_units": "megawatthours"
     },
     {
@@ -4928,7 +3883,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 11869186,
+      "value": 11913697,
       "value_units": "megawatthours"
     },
     {
@@ -4939,7 +3894,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 11845907,
+      "value": 11890149,
       "value_units": "megawatthours"
     },
     {
@@ -4950,7 +3905,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 11835547,
+      "value": 11879458,
       "value_units": "megawatthours"
     },
     {
@@ -5071,7 +4026,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 780414,
+      "value": 780493,
       "value_units": "megawatthours"
     },
     {
@@ -5082,7 +4037,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 779148,
+      "value": 779226,
       "value_units": "megawatthours"
     },
     {
@@ -5093,7 +4048,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 778937,
+      "value": 779015,
       "value_units": "megawatthours"
     },
     {
@@ -5104,7 +4059,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 779376,
+      "value": 779454,
       "value_units": "megawatthours"
     },
     {
@@ -5115,7 +4070,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 780414,
+      "value": 780493,
       "value_units": "megawatthours"
     },
     {
@@ -5291,7 +4246,7 @@
       "type_name": "Coal",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 1780347,
+      "value": 1780345,
       "value_units": "megawatthours"
     },
     {
@@ -5335,7 +4290,7 @@
       "type_name": "Coal",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 1780347,
+      "value": 1780345,
       "value_units": "megawatthours"
     },
     {
@@ -5346,7 +4301,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 6291391,
+      "value": 6300935,
       "value_units": "megawatthours"
     },
     {
@@ -5357,7 +4312,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 6321917,
+      "value": 6330743,
       "value_units": "megawatthours"
     },
     {
@@ -5368,7 +4323,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 6343135,
+      "value": 6351967,
       "value_units": "megawatthours"
     },
     {
@@ -5379,7 +4334,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 6303675,
+      "value": 6312863,
       "value_units": "megawatthours"
     },
     {
@@ -5390,7 +4345,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 6291391,
+      "value": 6300935,
       "value_units": "megawatthours"
     },
     {
@@ -5456,7 +4411,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 4502551,
+      "value": 4512097,
       "value_units": "megawatthours"
     },
     {
@@ -5467,7 +4422,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 4520922,
+      "value": 4529748,
       "value_units": "megawatthours"
     },
     {
@@ -5478,7 +4433,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 4532941,
+      "value": 4541773,
       "value_units": "megawatthours"
     },
     {
@@ -5489,7 +4444,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 4510568,
+      "value": 4519756,
       "value_units": "megawatthours"
     },
     {
@@ -5500,7 +4455,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 4502551,
+      "value": 4512097,
       "value_units": "megawatthours"
     },
     {
@@ -5676,7 +4631,7 @@
       "type_name": "Other",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 108235,
+      "value": 113676,
       "value_units": "megawatthours"
     },
     {
@@ -5687,7 +4642,7 @@
       "type_name": "Other",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 110590,
+      "value": 116027,
       "value_units": "megawatthours"
     },
     {
@@ -5698,7 +4653,7 @@
       "type_name": "Other",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 110945,
+      "value": 116367,
       "value_units": "megawatthours"
     },
     {
@@ -5709,7 +4664,7 @@
       "type_name": "Other",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 109455,
+      "value": 114892,
       "value_units": "megawatthours"
     },
     {
@@ -5720,7 +4675,7 @@
       "type_name": "Other",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 108235,
+      "value": 113676,
       "value_units": "megawatthours"
     },
     {
@@ -5786,7 +4741,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 3027638,
+      "value": 3046936,
       "value_units": "megawatthours"
     },
     {
@@ -5797,7 +4752,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 3006172,
+      "value": 3025472,
       "value_units": "megawatthours"
     },
     {
@@ -5808,7 +4763,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2989224,
+      "value": 3008524,
       "value_units": "megawatthours"
     },
     {
@@ -5819,7 +4774,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 3020036,
+      "value": 3039337,
       "value_units": "megawatthours"
     },
     {
@@ -5830,7 +4785,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 3027638,
+      "value": 3046936,
       "value_units": "megawatthours"
     },
     {
@@ -5841,7 +4796,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 8205,
+      "value": 11044,
       "value_units": "megawatthours"
     },
     {
@@ -5852,7 +4807,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 8277,
+      "value": 11117,
       "value_units": "megawatthours"
     },
     {
@@ -5863,7 +4818,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 8190,
+      "value": 11029,
       "value_units": "megawatthours"
     },
     {
@@ -5874,7 +4829,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 8308,
+      "value": 11148,
       "value_units": "megawatthours"
     },
     {
@@ -5885,7 +4840,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 8205,
+      "value": 11044,
       "value_units": "megawatthours"
     },
     {
@@ -5896,7 +4851,7 @@
       "type_name": "Solar",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 953517,
+      "value": 969915,
       "value_units": "megawatthours"
     },
     {
@@ -5907,7 +4862,7 @@
       "type_name": "Solar",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 953598,
+      "value": 969996,
       "value_units": "megawatthours"
     },
     {
@@ -5918,7 +4873,7 @@
       "type_name": "Solar",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 953653,
+      "value": 970051,
       "value_units": "megawatthours"
     },
     {
@@ -5929,7 +4884,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 953569,
+      "value": 969967,
       "value_units": "megawatthours"
     },
     {
@@ -5940,7 +4895,7 @@
       "type_name": "Solar",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 953517,
+      "value": 969915,
       "value_units": "megawatthours"
     },
     {
@@ -5951,7 +4906,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 11607125,
+      "value": 11641408,
       "value_units": "megawatthours"
     },
     {
@@ -5962,7 +4917,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 11617303,
+      "value": 11650866,
       "value_units": "megawatthours"
     },
     {
@@ -5973,7 +4928,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 11621481,
+      "value": 11655035,
       "value_units": "megawatthours"
     },
     {
@@ -5984,7 +4939,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 11612416,
+      "value": 11646342,
       "value_units": "megawatthours"
     },
     {
@@ -5995,7 +4950,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 11607125,
+      "value": 11641408,
       "value_units": "megawatthours"
     },
     {
@@ -6116,7 +5071,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 759047,
+      "value": 759108,
       "value_units": "megawatthours"
     },
     {
@@ -6127,7 +5082,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 761229,
+      "value": 761291,
       "value_units": "megawatthours"
     },
     {
@@ -6138,7 +5093,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 761255,
+      "value": 761318,
       "value_units": "megawatthours"
     },
     {
@@ -6149,7 +5104,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 760546,
+      "value": 760609,
       "value_units": "megawatthours"
     },
     {
@@ -6160,7 +5115,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 759047,
+      "value": 759108,
       "value_units": "megawatthours"
     },
     {
@@ -6336,7 +5291,7 @@
       "type_name": "Coal",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2008086,
+      "value": 2008073,
       "value_units": "megawatthours"
     },
     {
@@ -6347,7 +5302,7 @@
       "type_name": "Coal",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 1987351,
+      "value": 1987336,
       "value_units": "megawatthours"
     },
     {
@@ -6358,7 +5313,7 @@
       "type_name": "Coal",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 1975615,
+      "value": 1975603,
       "value_units": "megawatthours"
     },
     {
@@ -6369,7 +5324,7 @@
       "type_name": "Coal",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 1998903,
+      "value": 1998888,
       "value_units": "megawatthours"
     },
     {
@@ -6380,7 +5335,7 @@
       "type_name": "Coal",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2008086,
+      "value": 2008073,
       "value_units": "megawatthours"
     },
     {
@@ -6391,7 +5346,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 6937253,
+      "value": 6949169,
       "value_units": "megawatthours"
     },
     {
@@ -6402,7 +5357,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 6881878,
+      "value": 6894777,
       "value_units": "megawatthours"
     },
     {
@@ -6413,7 +5368,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 6849009,
+      "value": 6861901,
       "value_units": "megawatthours"
     },
     {
@@ -6424,7 +5379,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 6911782,
+      "value": 6924187,
       "value_units": "megawatthours"
     },
     {
@@ -6435,7 +5390,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 6937253,
+      "value": 6949169,
       "value_units": "megawatthours"
     },
     {
@@ -6501,7 +5456,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 4916061,
+      "value": 4927990,
       "value_units": "megawatthours"
     },
     {
@@ -6512,7 +5467,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 4881335,
+      "value": 4894249,
       "value_units": "megawatthours"
     },
     {
@@ -6523,7 +5478,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 4860255,
+      "value": 4873159,
       "value_units": "megawatthours"
     },
     {
@@ -6534,7 +5489,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 4899771,
+      "value": 4912191,
       "value_units": "megawatthours"
     },
     {
@@ -6545,7 +5500,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 4916061,
+      "value": 4927990,
       "value_units": "megawatthours"
     },
     {
@@ -6721,7 +5676,7 @@
       "type_name": "Other",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 118448,
+      "value": 123664,
       "value_units": "megawatthours"
     },
     {
@@ -6732,7 +5687,7 @@
       "type_name": "Other",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 118265,
+      "value": 123929,
       "value_units": "megawatthours"
     },
     {
@@ -6743,7 +5698,7 @@
       "type_name": "Other",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 118685,
+      "value": 124334,
       "value_units": "megawatthours"
     },
     {
@@ -6754,7 +5709,7 @@
       "type_name": "Other",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 117692,
+      "value": 123133,
       "value_units": "megawatthours"
     },
     {
@@ -6765,7 +5720,7 @@
       "type_name": "Other",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 118448,
+      "value": 123664,
       "value_units": "megawatthours"
     },
     {
@@ -6831,7 +5786,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2862976,
+      "value": 2884179,
       "value_units": "megawatthours"
     },
     {
@@ -6842,7 +5797,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2911740,
+      "value": 2932945,
       "value_units": "megawatthours"
     },
     {
@@ -6853,7 +5808,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2939236,
+      "value": 2960424,
       "value_units": "megawatthours"
     },
     {
@@ -6864,7 +5819,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2885187,
+      "value": 2906390,
       "value_units": "megawatthours"
     },
     {
@@ -6875,7 +5830,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2862976,
+      "value": 2884179,
       "value_units": "megawatthours"
     },
     {
@@ -6886,7 +5841,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 8858,
+      "value": 11631,
       "value_units": "megawatthours"
     },
     {
@@ -6897,7 +5852,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 8829,
+      "value": 11597,
       "value_units": "megawatthours"
     },
     {
@@ -6908,7 +5863,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 8840,
+      "value": 11608,
       "value_units": "megawatthours"
     },
     {
@@ -6919,7 +5874,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 8834,
+      "value": 11604,
       "value_units": "megawatthours"
     },
     {
@@ -6930,7 +5885,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 8858,
+      "value": 11631,
       "value_units": "megawatthours"
     },
     {
@@ -6941,7 +5896,7 @@
       "type_name": "Solar",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 976000,
+      "value": 994276,
       "value_units": "megawatthours"
     },
     {
@@ -6952,7 +5907,7 @@
       "type_name": "Solar",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 975918,
+      "value": 994194,
       "value_units": "megawatthours"
     },
     {
@@ -6963,7 +5918,7 @@
       "type_name": "Solar",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 975968,
+      "value": 994244,
       "value_units": "megawatthours"
     },
     {
@@ -6974,7 +5929,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 975861,
+      "value": 994137,
       "value_units": "megawatthours"
     },
     {
@@ -6985,7 +5940,7 @@
       "type_name": "Solar",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 976000,
+      "value": 994276,
       "value_units": "megawatthours"
     },
     {
@@ -6996,7 +5951,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 12129890,
+      "value": 12168225,
       "value_units": "megawatthours"
     },
     {
@@ -7007,7 +5962,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 12120041,
+      "value": 12159809,
       "value_units": "megawatthours"
     },
     {
@@ -7018,7 +5973,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 12113634,
+      "value": 12153363,
       "value_units": "megawatthours"
     },
     {
@@ -7029,7 +5984,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 12124324,
+      "value": 12163373,
       "value_units": "megawatthours"
     },
     {
@@ -7040,7 +5995,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 12129890,
+      "value": 12168225,
       "value_units": "megawatthours"
     },
     {
@@ -7161,7 +6116,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 803280,
+      "value": 803434,
       "value_units": "megawatthours"
     },
     {
@@ -7172,7 +6127,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 805088,
+      "value": 805249,
       "value_units": "megawatthours"
     },
     {
@@ -7183,7 +6138,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 806120,
+      "value": 806264,
       "value_units": "megawatthours"
     },
     {
@@ -7194,7 +6149,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 803893,
+      "value": 804050,
       "value_units": "megawatthours"
     },
     {
@@ -7205,7 +6160,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 803280,
+      "value": 803434,
       "value_units": "megawatthours"
     },
     {
@@ -7403,7 +6358,7 @@
       "type_name": "Coal",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2101953,
+      "value": 2101950,
       "value_units": "megawatthours"
     },
     {
@@ -7414,7 +6369,7 @@
       "type_name": "Coal",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2086010,
+      "value": 2086011,
       "value_units": "megawatthours"
     },
     {
@@ -7458,7 +6413,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 7139080,
+      "value": 7139601,
       "value_units": "megawatthours"
     },
     {
@@ -7469,7 +6424,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 7093560,
+      "value": 7093561,
       "value_units": "megawatthours"
     },
     {
@@ -7568,7 +6523,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 5023016,
+      "value": 5023540,
       "value_units": "megawatthours"
     },
     {
@@ -7788,7 +6743,7 @@
       "type_name": "Other",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 120013,
+      "value": 120255,
       "value_units": "megawatthours"
     },
     {
@@ -7876,7 +6831,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2698925,
+      "value": 2698908,
       "value_units": "megawatthours"
     },
     {
@@ -7887,7 +6842,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2654772,
+      "value": 2654766,
       "value_units": "megawatthours"
     },
     {
@@ -7898,7 +6853,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2631023,
+      "value": 2631034,
       "value_units": "megawatthours"
     },
     {
@@ -7909,7 +6864,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2677996,
+      "value": 2677936,
       "value_units": "megawatthours"
     },
     {
@@ -7920,7 +6875,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2698925,
+      "value": 2698908,
       "value_units": "megawatthours"
     },
     {
@@ -7953,7 +6908,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 9147,
+      "value": 9145,
       "value_units": "megawatthours"
     },
     {
@@ -8041,7 +6996,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 12121254,
+      "value": 12121237,
       "value_units": "megawatthours"
     },
     {
@@ -8052,7 +7007,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 12120569,
+      "value": 12120563,
       "value_units": "megawatthours"
     },
     {
@@ -8063,7 +7018,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 12120773,
+      "value": 12121547,
       "value_units": "megawatthours"
     },
     {
@@ -8074,7 +7029,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 12121723,
+      "value": 12121664,
       "value_units": "megawatthours"
     },
     {
@@ -8085,7 +7040,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 12121254,
+      "value": 12121237,
       "value_units": "megawatthours"
     },
     {
@@ -8206,7 +7161,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 799908,
+      "value": 799891,
       "value_units": "megawatthours"
     },
     {
@@ -8217,7 +7172,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 798467,
+      "value": 798461,
       "value_units": "megawatthours"
     },
     {
@@ -8228,7 +7183,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 798416,
+      "value": 798429,
       "value_units": "megawatthours"
     },
     {
@@ -8239,7 +7194,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 799260,
+      "value": 799200,
       "value_units": "megawatthours"
     },
     {
@@ -8250,7 +7205,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 799908,
+      "value": 799891,
       "value_units": "megawatthours"
     },
     {
@@ -9493,7 +8448,7 @@
       "type_name": "Coal",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2164674,
+      "value": 2164675,
       "value_units": "megawatthours"
     },
     {
@@ -9548,7 +8503,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 7322321,
+      "value": 7322322,
       "value_units": "megawatthours"
     },
     {
@@ -9966,7 +8921,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2744756,
+      "value": 2744843,
       "value_units": "megawatthours"
     },
     {
@@ -9977,7 +8932,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2740170,
+      "value": 2763743,
       "value_units": "megawatthours"
     },
     {
@@ -9988,7 +8943,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2741360,
+      "value": 2764933,
       "value_units": "megawatthours"
     },
     {
@@ -9999,7 +8954,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2741549,
+      "value": 2741636,
       "value_units": "megawatthours"
     },
     {
@@ -10010,7 +8965,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2744756,
+      "value": 2744843,
       "value_units": "megawatthours"
     },
     {
@@ -10076,7 +9031,7 @@
       "type_name": "Solar",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 890893,
+      "value": 890984,
       "value_units": "megawatthours"
     },
     {
@@ -10087,7 +9042,7 @@
       "type_name": "Solar",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 890622,
+      "value": 890713,
       "value_units": "megawatthours"
     },
     {
@@ -10098,7 +9053,7 @@
       "type_name": "Solar",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 890645,
+      "value": 890736,
       "value_units": "megawatthours"
     },
     {
@@ -10109,7 +9064,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 890697,
+      "value": 890788,
       "value_units": "megawatthours"
     },
     {
@@ -10120,7 +9075,7 @@
       "type_name": "Solar",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 890893,
+      "value": 890984,
       "value_units": "megawatthours"
     },
     {
@@ -10131,7 +9086,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 12454167,
+      "value": 12454254,
       "value_units": "megawatthours"
     },
     {
@@ -10142,7 +9097,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 12444163,
+      "value": 12467736,
       "value_units": "megawatthours"
     },
     {
@@ -10153,7 +9108,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 12447201,
+      "value": 12470775,
       "value_units": "megawatthours"
     },
     {
@@ -10164,7 +9119,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 12448457,
+      "value": 12448544,
       "value_units": "megawatthours"
     },
     {
@@ -10175,7 +9130,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 12454167,
+      "value": 12454254,
       "value_units": "megawatthours"
     },
     {
@@ -10296,7 +9251,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 749656,
+      "value": 749652,
       "value_units": "megawatthours"
     },
     {
@@ -10307,7 +9262,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 746784,
+      "value": 770266,
       "value_units": "megawatthours"
     },
     {
@@ -10318,7 +9273,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 745882,
+      "value": 769364,
       "value_units": "megawatthours"
     },
     {
@@ -10329,7 +9284,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 747884,
+      "value": 747880,
       "value_units": "megawatthours"
     },
     {
@@ -10340,7 +9295,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 749656,
+      "value": 749652,
       "value_units": "megawatthours"
     },
     {
@@ -11011,7 +9966,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2893426,
+      "value": 2893428,
       "value_units": "megawatthours"
     },
     {
@@ -11022,7 +9977,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2887443,
+      "value": 2887445,
       "value_units": "megawatthours"
     },
     {
@@ -11033,7 +9988,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2880474,
+      "value": 2880478,
       "value_units": "megawatthours"
     },
     {
@@ -11044,7 +9999,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2891982,
+      "value": 2891984,
       "value_units": "megawatthours"
     },
     {
@@ -11055,7 +10010,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2893426,
+      "value": 2893428,
       "value_units": "megawatthours"
     },
     {
@@ -11176,7 +10131,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 12340001,
+      "value": 12340003,
       "value_units": "megawatthours"
     },
     {
@@ -11187,7 +10142,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 12348959,
+      "value": 12348961,
       "value_units": "megawatthours"
     },
     {
@@ -11198,7 +10153,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 12353455,
+      "value": 12353459,
       "value_units": "megawatthours"
     },
     {
@@ -11209,7 +10164,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 12343890,
+      "value": 12343892,
       "value_units": "megawatthours"
     },
     {
@@ -11220,7 +10175,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 12340001,
+      "value": 12340003,
       "value_units": "megawatthours"
     },
     {
@@ -11341,7 +10296,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 778103,
+      "value": 778105,
       "value_units": "megawatthours"
     },
     {
@@ -11352,7 +10307,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 779504,
+      "value": 779506,
       "value_units": "megawatthours"
     },
     {
@@ -11363,7 +10318,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 780108,
+      "value": 780112,
       "value_units": "megawatthours"
     },
     {
@@ -11374,7 +10329,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 778936,
+      "value": 778938,
       "value_units": "megawatthours"
     },
     {
@@ -11385,7 +10340,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 778103,
+      "value": 778105,
       "value_units": "megawatthours"
     },
     {
@@ -11561,7 +10516,7 @@
       "type_name": "Coal",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2015125,
+      "value": 2015106,
       "value_units": "megawatthours"
     },
     {
@@ -11572,7 +10527,7 @@
       "type_name": "Coal",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2010227,
+      "value": 2010195,
       "value_units": "megawatthours"
     },
     {
@@ -11594,7 +10549,7 @@
       "type_name": "Coal",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2012719,
+      "value": 2012687,
       "value_units": "megawatthours"
     },
     {
@@ -11605,7 +10560,7 @@
       "type_name": "Coal",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2015125,
+      "value": 2015106,
       "value_units": "megawatthours"
     },
     {
@@ -11616,7 +10571,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 6659994,
+      "value": 6659819,
       "value_units": "megawatthours"
     },
     {
@@ -11627,7 +10582,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 6667577,
+      "value": 6667384,
       "value_units": "megawatthours"
     },
     {
@@ -11649,7 +10604,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 6663963,
+      "value": 6663770,
       "value_units": "megawatthours"
     },
     {
@@ -11660,7 +10615,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 6659994,
+      "value": 6659819,
       "value_units": "megawatthours"
     },
     {
@@ -11726,7 +10681,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 4636674,
+      "value": 4636518,
       "value_units": "megawatthours"
     },
     {
@@ -11737,7 +10692,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 4649152,
+      "value": 4648991,
       "value_units": "megawatthours"
     },
     {
@@ -11759,7 +10714,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 4643047,
+      "value": 4642886,
       "value_units": "megawatthours"
     },
     {
@@ -11770,7 +10725,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 4636674,
+      "value": 4636518,
       "value_units": "megawatthours"
     },
     {
@@ -11781,7 +10736,7 @@
       "type_name": "Nuclear",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2257876,
+      "value": 2257874,
       "value_units": "megawatthours"
     },
     {
@@ -11792,7 +10747,7 @@
       "type_name": "Nuclear",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2256798,
+      "value": 2256796,
       "value_units": "megawatthours"
     },
     {
@@ -11814,7 +10769,7 @@
       "type_name": "Nuclear",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2257293,
+      "value": 2257291,
       "value_units": "megawatthours"
     },
     {
@@ -11825,7 +10780,7 @@
       "type_name": "Nuclear",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2257876,
+      "value": 2257874,
       "value_units": "megawatthours"
     },
     {
@@ -12056,7 +11011,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2747683,
+      "value": 2748307,
       "value_units": "megawatthours"
     },
     {
@@ -12067,7 +11022,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2766223,
+      "value": 2766907,
       "value_units": "megawatthours"
     },
     {
@@ -12078,7 +11033,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2776079,
+      "value": 2776899,
       "value_units": "megawatthours"
     },
     {
@@ -12089,7 +11044,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2756585,
+      "value": 2757222,
       "value_units": "megawatthours"
     },
     {
@@ -12100,7 +11055,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2747683,
+      "value": 2748307,
       "value_units": "megawatthours"
     },
     {
@@ -12221,7 +11176,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 11787584,
+      "value": 11788031,
       "value_units": "megawatthours"
     },
     {
@@ -12232,7 +11187,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 11813547,
+      "value": 11814036,
       "value_units": "megawatthours"
     },
     {
@@ -12243,7 +11198,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 11826401,
+      "value": 11827221,
       "value_units": "megawatthours"
     },
     {
@@ -12254,7 +11209,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 11800600,
+      "value": 11801042,
       "value_units": "megawatthours"
     },
     {
@@ -12265,7 +11220,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 11787584,
+      "value": 11788031,
       "value_units": "megawatthours"
     },
     {
@@ -12386,7 +11341,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 748862,
+      "value": 748873,
       "value_units": "megawatthours"
     },
     {
@@ -12397,7 +11352,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 745594,
+      "value": 745586,
       "value_units": "megawatthours"
     },
     {
@@ -12419,7 +11374,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 747455,
+      "value": 747445,
       "value_units": "megawatthours"
     },
     {
@@ -12430,7 +11385,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 748862,
+      "value": 748873,
       "value_units": "megawatthours"
     },
     {
@@ -12496,7 +11451,7 @@
       "type_name": "Wind",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 1094318,
+      "value": 1094931,
       "value_units": "megawatthours"
     },
     {
@@ -12507,7 +11462,7 @@
       "type_name": "Wind",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 1116667,
+      "value": 1117359,
       "value_units": "megawatthours"
     },
     {
@@ -12518,7 +11473,7 @@
       "type_name": "Wind",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 1128752,
+      "value": 1129572,
       "value_units": "megawatthours"
     },
     {
@@ -12529,7 +11484,7 @@
       "type_name": "Wind",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 1104712,
+      "value": 1105359,
       "value_units": "megawatthours"
     },
     {
@@ -12540,7 +11495,7 @@
       "type_name": "Wind",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 1094318,
+      "value": 1094931,
       "value_units": "megawatthours"
     },
     {
@@ -12551,7 +11506,7 @@
       "type_name": "Battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 18494,
+      "value": 18353,
       "value_units": "megawatthours"
     },
     {
@@ -12584,7 +11539,7 @@
       "type_name": "Battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 18748,
+      "value": 18657,
       "value_units": "megawatthours"
     },
     {
@@ -12595,7 +11550,7 @@
       "type_name": "Battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 18494,
+      "value": 18353,
       "value_units": "megawatthours"
     },
     {
@@ -12606,7 +11561,7 @@
       "type_name": "Coal",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 1995437,
+      "value": 1985702,
       "value_units": "megawatthours"
     },
     {
@@ -12617,7 +11572,7 @@
       "type_name": "Coal",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 1987956,
+      "value": 1988253,
       "value_units": "megawatthours"
     },
     {
@@ -12628,7 +11583,7 @@
       "type_name": "Coal",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 1986112,
+      "value": 1986412,
       "value_units": "megawatthours"
     },
     {
@@ -12639,7 +11594,7 @@
       "type_name": "Coal",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 1992582,
+      "value": 1988681,
       "value_units": "megawatthours"
     },
     {
@@ -12650,7 +11605,7 @@
       "type_name": "Coal",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 1995437,
+      "value": 1985702,
       "value_units": "megawatthours"
     },
     {
@@ -12661,7 +11616,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 6657131,
+      "value": 6642838,
       "value_units": "megawatthours"
     },
     {
@@ -12672,7 +11627,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 6629146,
+      "value": 6629250,
       "value_units": "megawatthours"
     },
     {
@@ -12683,7 +11638,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 6612378,
+      "value": 6612636,
       "value_units": "megawatthours"
     },
     {
@@ -12694,7 +11649,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 6647237,
+      "value": 6638126,
       "value_units": "megawatthours"
     },
     {
@@ -12705,7 +11660,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 6657131,
+      "value": 6642838,
       "value_units": "megawatthours"
     },
     {
@@ -12771,7 +11726,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 4656624,
+      "value": 4652066,
       "value_units": "megawatthours"
     },
     {
@@ -12782,7 +11737,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 4636121,
+      "value": 4635928,
       "value_units": "megawatthours"
     },
     {
@@ -12793,7 +11748,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 4621198,
+      "value": 4621156,
       "value_units": "megawatthours"
     },
     {
@@ -12804,7 +11759,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 4649587,
+      "value": 4644377,
       "value_units": "megawatthours"
     },
     {
@@ -12815,7 +11770,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 4656624,
+      "value": 4652066,
       "value_units": "megawatthours"
     },
     {
@@ -12826,7 +11781,7 @@
       "type_name": "Nuclear",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2267774,
+      "value": 2268024,
       "value_units": "megawatthours"
     },
     {
@@ -12848,7 +11803,7 @@
       "type_name": "Nuclear",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2266913,
+      "value": 2266911,
       "value_units": "megawatthours"
     },
     {
@@ -12859,7 +11814,7 @@
       "type_name": "Nuclear",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2267672,
+      "value": 2267735,
       "value_units": "megawatthours"
     },
     {
@@ -12870,7 +11825,7 @@
       "type_name": "Nuclear",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2267774,
+      "value": 2268024,
       "value_units": "megawatthours"
     },
     {
@@ -12991,7 +11946,7 @@
       "type_name": "Other",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 121725,
+      "value": 121696,
       "value_units": "megawatthours"
     },
     {
@@ -13002,7 +11957,7 @@
       "type_name": "Other",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 121459,
+      "value": 121458,
       "value_units": "megawatthours"
     },
     {
@@ -13024,7 +11979,7 @@
       "type_name": "Other",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 122008,
+      "value": 121997,
       "value_units": "megawatthours"
     },
     {
@@ -13035,7 +11990,7 @@
       "type_name": "Other",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 121725,
+      "value": 121696,
       "value_units": "megawatthours"
     },
     {
@@ -13046,7 +12001,7 @@
       "type_name": "Pumped storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": -4811,
+      "value": -5932,
       "value_units": "megawatthours"
     },
     {
@@ -13079,7 +12034,7 @@
       "type_name": "Pumped storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": -4651,
+      "value": -5019,
       "value_units": "megawatthours"
     },
     {
@@ -13090,7 +12045,7 @@
       "type_name": "Pumped storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": -4811,
+      "value": -5932,
       "value_units": "megawatthours"
     },
     {
@@ -13101,7 +12056,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2561829,
+      "value": 2572124,
       "value_units": "megawatthours"
     },
     {
@@ -13112,7 +12067,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2582274,
+      "value": 2583423,
       "value_units": "megawatthours"
     },
     {
@@ -13123,7 +12078,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2593300,
+      "value": 2594288,
       "value_units": "megawatthours"
     },
     {
@@ -13134,7 +12089,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2572381,
+      "value": 2575650,
       "value_units": "megawatthours"
     },
     {
@@ -13145,7 +12100,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2561829,
+      "value": 2572124,
       "value_units": "megawatthours"
     },
     {
@@ -13156,7 +12111,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 9751,
+      "value": 9757,
       "value_units": "megawatthours"
     },
     {
@@ -13189,7 +12144,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 9790,
+      "value": 9796,
       "value_units": "megawatthours"
     },
     {
@@ -13200,7 +12155,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 9751,
+      "value": 9757,
       "value_units": "megawatthours"
     },
     {
@@ -13244,7 +12199,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 869074,
+      "value": 869075,
       "value_units": "megawatthours"
     },
     {
@@ -13266,7 +12221,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 11608459,
+      "value": 11604682,
       "value_units": "megawatthours"
     },
     {
@@ -13277,7 +12232,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 11600213,
+      "value": 11601465,
       "value_units": "megawatthours"
     },
     {
@@ -13288,7 +12243,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 11593549,
+      "value": 11594793,
       "value_units": "megawatthours"
     },
     {
@@ -13299,7 +12254,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 11609298,
+      "value": 11603508,
       "value_units": "megawatthours"
     },
     {
@@ -13310,7 +12265,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 11608459,
+      "value": 11604682,
       "value_units": "megawatthours"
     },
     {
@@ -13431,7 +12386,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 737195,
+      "value": 737581,
       "value_units": "megawatthours"
     },
     {
@@ -13442,7 +12397,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 738467,
+      "value": 738852,
       "value_units": "megawatthours"
     },
     {
@@ -13453,7 +12408,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 738868,
+      "value": 739297,
       "value_units": "megawatthours"
     },
     {
@@ -13464,7 +12419,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 737792,
+      "value": 738098,
       "value_units": "megawatthours"
     },
     {
@@ -13475,7 +12430,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 737195,
+      "value": 737581,
       "value_units": "megawatthours"
     },
     {
@@ -13541,7 +12496,7 @@
       "type_name": "Wind",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 934361,
+      "value": 944264,
       "value_units": "megawatthours"
     },
     {
@@ -13552,7 +12507,7 @@
       "type_name": "Wind",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 953224,
+      "value": 953988,
       "value_units": "megawatthours"
     },
     {
@@ -13563,7 +12518,7 @@
       "type_name": "Wind",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 963554,
+      "value": 964113,
       "value_units": "megawatthours"
     },
     {
@@ -13574,7 +12529,7 @@
       "type_name": "Wind",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 944304,
+      "value": 947260,
       "value_units": "megawatthours"
     },
     {
@@ -13585,7 +12540,7 @@
       "type_name": "Wind",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 934361,
+      "value": 944264,
       "value_units": "megawatthours"
     },
     {
@@ -13596,7 +12551,7 @@
       "type_name": "Battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 22369,
+      "value": 22597,
       "value_units": "megawatthours"
     },
     {
@@ -13607,7 +12562,7 @@
       "type_name": "Battery storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 21712,
+      "value": 22605,
       "value_units": "megawatthours"
     },
     {
@@ -13618,7 +12573,7 @@
       "type_name": "Battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 20876,
+      "value": 21684,
       "value_units": "megawatthours"
     },
     {
@@ -13629,7 +12584,7 @@
       "type_name": "Battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 22514,
+      "value": 22784,
       "value_units": "megawatthours"
     },
     {
@@ -13640,7 +12595,7 @@
       "type_name": "Battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 22369,
+      "value": 22597,
       "value_units": "megawatthours"
     },
     {
@@ -13651,7 +12606,7 @@
       "type_name": "Coal",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 1314887,
+      "value": 2111249,
       "value_units": "megawatthours"
     },
     {
@@ -13662,7 +12617,7 @@
       "type_name": "Coal",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2161714,
+      "value": 2167122,
       "value_units": "megawatthours"
     },
     {
@@ -13673,7 +12628,7 @@
       "type_name": "Coal",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2157511,
+      "value": 2161503,
       "value_units": "megawatthours"
     },
     {
@@ -13684,7 +12639,7 @@
       "type_name": "Coal",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 1314422,
+      "value": 2103875,
       "value_units": "megawatthours"
     },
     {
@@ -13695,7 +12650,7 @@
       "type_name": "Coal",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 1314887,
+      "value": 2111249,
       "value_units": "megawatthours"
     },
     {
@@ -13706,7 +12661,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 5432198,
+      "value": 7316487,
       "value_units": "megawatthours"
     },
     {
@@ -13717,7 +12672,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 7235244,
+      "value": 7361923,
       "value_units": "megawatthours"
     },
     {
@@ -13728,7 +12683,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 7262514,
+      "value": 7343061,
       "value_units": "megawatthours"
     },
     {
@@ -13739,7 +12694,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 5430494,
+      "value": 7297693,
       "value_units": "megawatthours"
     },
     {
@@ -13750,7 +12705,7 @@
       "type_name": "Fossil Fuels",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 5432198,
+      "value": 7316487,
       "value_units": "megawatthours"
     },
     {
@@ -13816,7 +12771,7 @@
       "type_name": "Natural Gas",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 4112702,
+      "value": 5200637,
       "value_units": "megawatthours"
     },
     {
@@ -13827,7 +12782,7 @@
       "type_name": "Natural Gas",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 5068924,
+      "value": 5190199,
       "value_units": "megawatthours"
     },
     {
@@ -13838,7 +12793,7 @@
       "type_name": "Natural Gas",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 5100397,
+      "value": 5176954,
       "value_units": "megawatthours"
     },
     {
@@ -13849,7 +12804,7 @@
       "type_name": "Natural Gas",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 4111464,
+      "value": 5189216,
       "value_units": "megawatthours"
     },
     {
@@ -13860,7 +12815,7 @@
       "type_name": "Natural Gas",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 4112702,
+      "value": 5200637,
       "value_units": "megawatthours"
     },
     {
@@ -13871,7 +12826,7 @@
       "type_name": "Nuclear",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 1963818,
+      "value": 2262028,
       "value_units": "megawatthours"
     },
     {
@@ -13882,7 +12837,7 @@
       "type_name": "Nuclear",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2261529,
+      "value": 2262498,
       "value_units": "megawatthours"
     },
     {
@@ -13893,7 +12848,7 @@
       "type_name": "Nuclear",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2261927,
+      "value": 2262814,
       "value_units": "megawatthours"
     },
     {
@@ -13904,7 +12859,7 @@
       "type_name": "Nuclear",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 1963654,
+      "value": 2262241,
       "value_units": "megawatthours"
     },
     {
@@ -13915,7 +12870,7 @@
       "type_name": "Nuclear",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 1963818,
+      "value": 2262028,
       "value_units": "megawatthours"
     },
     {
@@ -13981,7 +12936,7 @@
       "type_name": "Petroleum",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 4609,
+      "value": 4601,
       "value_units": "megawatthours"
     },
     {
@@ -13992,7 +12947,7 @@
       "type_name": "Petroleum",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 4606,
+      "value": 4602,
       "value_units": "megawatthours"
     },
     {
@@ -14003,7 +12958,7 @@
       "type_name": "Petroleum",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 4606,
+      "value": 4604,
       "value_units": "megawatthours"
     },
     {
@@ -14014,7 +12969,7 @@
       "type_name": "Petroleum",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 4608,
+      "value": 4602,
       "value_units": "megawatthours"
     },
     {
@@ -14025,7 +12980,7 @@
       "type_name": "Petroleum",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 4609,
+      "value": 4601,
       "value_units": "megawatthours"
     },
     {
@@ -14036,7 +12991,7 @@
       "type_name": "Other",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 134043,
+      "value": 139901,
       "value_units": "megawatthours"
     },
     {
@@ -14047,7 +13002,7 @@
       "type_name": "Other",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 140778,
+      "value": 138715,
       "value_units": "megawatthours"
     },
     {
@@ -14058,7 +13013,7 @@
       "type_name": "Other",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 140842,
+      "value": 138156,
       "value_units": "megawatthours"
     },
     {
@@ -14069,7 +13024,7 @@
       "type_name": "Other",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 133933,
+      "value": 139178,
       "value_units": "megawatthours"
     },
     {
@@ -14080,7 +13035,7 @@
       "type_name": "Other",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 134043,
+      "value": 139901,
       "value_units": "megawatthours"
     },
     {
@@ -14091,7 +13046,7 @@
       "type_name": "Pumped storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 758,
+      "value": -297,
       "value_units": "megawatthours"
     },
     {
@@ -14102,7 +13057,7 @@
       "type_name": "Pumped storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 1634,
+      "value": 1114,
       "value_units": "megawatthours"
     },
     {
@@ -14124,7 +13079,7 @@
       "type_name": "Pumped storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 987,
+      "value": 543,
       "value_units": "megawatthours"
     },
     {
@@ -14135,7 +13090,7 @@
       "type_name": "Pumped storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 758,
+      "value": -297,
       "value_units": "megawatthours"
     },
     {
@@ -14146,7 +13101,7 @@
       "type_name": "Renewables",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 2143614,
+      "value": 2712948,
       "value_units": "megawatthours"
     },
     {
@@ -14157,7 +13112,7 @@
       "type_name": "Renewables",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 2571678,
+      "value": 2709423,
       "value_units": "megawatthours"
     },
     {
@@ -14168,7 +13123,7 @@
       "type_name": "Renewables",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 2563851,
+      "value": 2698141,
       "value_units": "megawatthours"
     },
     {
@@ -14179,7 +13134,7 @@
       "type_name": "Renewables",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 2140532,
+      "value": 2714137,
       "value_units": "megawatthours"
     },
     {
@@ -14190,7 +13145,7 @@
       "type_name": "Renewables",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 2143614,
+      "value": 2712948,
       "value_units": "megawatthours"
     },
     {
@@ -14201,7 +13156,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 8312,
+      "value": 9589,
       "value_units": "megawatthours"
     },
     {
@@ -14212,7 +13167,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 7954,
+      "value": 9235,
       "value_units": "megawatthours"
     },
     {
@@ -14223,7 +13178,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 8891,
+      "value": 9227,
       "value_units": "megawatthours"
     },
     {
@@ -14234,7 +13189,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 8178,
+      "value": 9455,
       "value_units": "megawatthours"
     },
     {
@@ -14245,7 +13200,7 @@
       "type_name": "Solar with integrated battery storage",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 8312,
+      "value": 9589,
       "value_units": "megawatthours"
     },
     {
@@ -14256,7 +13211,7 @@
       "type_name": "Solar",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 852614,
+      "value": 969673,
       "value_units": "megawatthours"
     },
     {
@@ -14267,7 +13222,7 @@
       "type_name": "Solar",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 954737,
+      "value": 969901,
       "value_units": "megawatthours"
     },
     {
@@ -14278,7 +13233,7 @@
       "type_name": "Solar",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 960053,
+      "value": 969200,
       "value_units": "megawatthours"
     },
     {
@@ -14289,7 +13244,7 @@
       "type_name": "Solar",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 852784,
+      "value": 969873,
       "value_units": "megawatthours"
     },
     {
@@ -14300,7 +13255,7 @@
       "type_name": "Solar",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 852614,
+      "value": 969673,
       "value_units": "megawatthours"
     },
     {
@@ -14311,7 +13266,7 @@
       "type_name": "Total",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 9673673,
+      "value": 12431364,
       "value_units": "megawatthours"
     },
     {
@@ -14322,7 +13277,7 @@
       "type_name": "Total",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 12209229,
+      "value": 12472559,
       "value_units": "megawatthours"
     },
     {
@@ -14333,7 +13288,7 @@
       "type_name": "Total",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 12229134,
+      "value": 12442172,
       "value_units": "megawatthours"
     },
     {
@@ -14344,7 +13299,7 @@
       "type_name": "Total",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 9668613,
+      "value": 12413249,
       "value_units": "megawatthours"
     },
     {
@@ -14355,7 +13310,7 @@
       "type_name": "Total",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 9673673,
+      "value": 12431364,
       "value_units": "megawatthours"
     },
     {
@@ -14476,7 +13431,7 @@
       "type_name": "Hydro",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 707797,
+      "value": 785278,
       "value_units": "megawatthours"
     },
     {
@@ -14487,7 +13442,7 @@
       "type_name": "Hydro",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 776909,
+      "value": 788200,
       "value_units": "megawatthours"
     },
     {
@@ -14498,7 +13453,7 @@
       "type_name": "Hydro",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 779100,
+      "value": 787401,
       "value_units": "megawatthours"
     },
     {
@@ -14509,7 +13464,7 @@
       "type_name": "Hydro",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 708901,
+      "value": 786805,
       "value_units": "megawatthours"
     },
     {
@@ -14520,7 +13475,7 @@
       "type_name": "Hydro",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 707797,
+      "value": 785278,
       "value_units": "megawatthours"
     },
     {
@@ -14586,7 +13541,7 @@
       "type_name": "Wind",
       "timezone": "Arizona",
       "timezone_description": "Arizona",
-      "value": 563654,
+      "value": 937171,
       "value_units": "megawatthours"
     },
     {
@@ -14597,7 +13552,7 @@
       "type_name": "Wind",
       "timezone": "Central",
       "timezone_description": "Central",
-      "value": 820841,
+      "value": 930850,
       "value_units": "megawatthours"
     },
     {
@@ -14608,7 +13563,7 @@
       "type_name": "Wind",
       "timezone": "Eastern",
       "timezone_description": "Eastern",
-      "value": 804586,
+      "value": 921092,
       "value_units": "megawatthours"
     },
     {
@@ -14619,7 +13574,7 @@
       "type_name": "Wind",
       "timezone": "Mountain",
       "timezone_description": "Mountain",
-      "value": 559431,
+      "value": 936766,
       "value_units": "megawatthours"
     },
     {
@@ -14630,80 +13585,1120 @@
       "type_name": "Wind",
       "timezone": "Pacific",
       "timezone_description": "Pacific",
-      "value": 563654,
+      "value": 937171,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "BAT",
+      "type_name": "Battery storage",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 20478,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "BAT",
+      "type_name": "Battery storage",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 19681,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "BAT",
+      "type_name": "Battery storage",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 19465,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "BAT",
+      "type_name": "Battery storage",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 20255,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "BAT",
+      "type_name": "Battery storage",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 20478,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "COL",
+      "type_name": "Coal",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 2249535,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "COL",
+      "type_name": "Coal",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 2242534,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "COL",
+      "type_name": "Coal",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 2232065,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "COL",
+      "type_name": "Coal",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 2249086,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "COL",
+      "type_name": "Coal",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 2249535,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Fossil Fuels",
+      "type_name": "Fossil Fuels",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 7622899,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Fossil Fuels",
+      "type_name": "Fossil Fuels",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 7605567,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Fossil Fuels",
+      "type_name": "Fossil Fuels",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 7579755,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Fossil Fuels",
+      "type_name": "Fossil Fuels",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 7621678,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Fossil Fuels",
+      "type_name": "Fossil Fuels",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 7622899,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "GEO",
+      "type_name": "Geothermal",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 11020,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "GEO",
+      "type_name": "Geothermal",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 10999,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "GEO",
+      "type_name": "Geothermal",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 10992,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "GEO",
+      "type_name": "Geothermal",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 11014,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "GEO",
+      "type_name": "Geothermal",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 11020,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NG",
+      "type_name": "Natural Gas",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 5353561,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NG",
+      "type_name": "Natural Gas",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 5343224,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NG",
+      "type_name": "Natural Gas",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 5328776,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NG",
+      "type_name": "Natural Gas",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 5352787,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NG",
+      "type_name": "Natural Gas",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 5353561,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NUC",
+      "type_name": "Nuclear",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 2238824,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NUC",
+      "type_name": "Nuclear",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 2240220,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NUC",
+      "type_name": "Nuclear",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 2241290,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NUC",
+      "type_name": "Nuclear",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 2238824,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "NUC",
+      "type_name": "Nuclear",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 2238824,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OES",
+      "type_name": "Other energy storage",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OES",
+      "type_name": "Other energy storage",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OES",
+      "type_name": "Other energy storage",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OES",
+      "type_name": "Other energy storage",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OES",
+      "type_name": "Other energy storage",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OIL",
+      "type_name": "Petroleum",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 19803,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OIL",
+      "type_name": "Petroleum",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 19809,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OIL",
+      "type_name": "Petroleum",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 18914,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OIL",
+      "type_name": "Petroleum",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 19805,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OIL",
+      "type_name": "Petroleum",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 19803,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OTH",
+      "type_name": "Other",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 148409,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OTH",
+      "type_name": "Other",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 148279,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OTH",
+      "type_name": "Other",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 146704,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OTH",
+      "type_name": "Other",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 148772,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "OTH",
+      "type_name": "Other",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 148409,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "PS",
+      "type_name": "Pumped storage",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 492,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "PS",
+      "type_name": "Pumped storage",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": -1103,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "PS",
+      "type_name": "Pumped storage",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": -2826,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "PS",
+      "type_name": "Pumped storage",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 492,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "PS",
+      "type_name": "Pumped storage",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 492,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Renewables",
+      "type_name": "Renewables",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 2969493,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Renewables",
+      "type_name": "Renewables",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 2974310,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Renewables",
+      "type_name": "Renewables",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 2977480,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Renewables",
+      "type_name": "Renewables",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 2970276,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Renewables",
+      "type_name": "Renewables",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 2969493,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SNB",
+      "type_name": "Solar with integrated battery storage",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 9173,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SNB",
+      "type_name": "Solar with integrated battery storage",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 9342,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SNB",
+      "type_name": "Solar with integrated battery storage",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 9343,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SNB",
+      "type_name": "Solar with integrated battery storage",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 9219,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SNB",
+      "type_name": "Solar with integrated battery storage",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 9173,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SUN",
+      "type_name": "Solar",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 960720,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SUN",
+      "type_name": "Solar",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 960835,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SUN",
+      "type_name": "Solar",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 960765,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SUN",
+      "type_name": "Solar",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 960737,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "SUN",
+      "type_name": "Solar",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 960720,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Total",
+      "type_name": "Total",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 12979625,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Total",
+      "type_name": "Total",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 12968376,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Total",
+      "type_name": "Total",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 12945229,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Total",
+      "type_name": "Total",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 12979550,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "Total",
+      "type_name": "Total",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 12979625,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UES",
+      "type_name": "Unknown energy storage",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": -9391,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UES",
+      "type_name": "Unknown energy storage",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": -27510,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UES",
+      "type_name": "Unknown energy storage",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": -27511,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UES",
+      "type_name": "Unknown energy storage",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": -9391,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UES",
+      "type_name": "Unknown energy storage",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": -9391,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UNK",
+      "type_name": "Unknown",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UNK",
+      "type_name": "Unknown",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UNK",
+      "type_name": "Unknown",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UNK",
+      "type_name": "Unknown",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "UNK",
+      "type_name": "Unknown",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WAT",
+      "type_name": "Hydro",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 794661,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WAT",
+      "type_name": "Hydro",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 792439,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WAT",
+      "type_name": "Hydro",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 790505,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WAT",
+      "type_name": "Hydro",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 794066,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WAT",
+      "type_name": "Hydro",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 794661,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WNB",
+      "type_name": "Wind with integrated battery storage",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WNB",
+      "type_name": "Wind with integrated battery storage",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WNB",
+      "type_name": "Wind with integrated battery storage",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WNB",
+      "type_name": "Wind with integrated battery storage",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WNB",
+      "type_name": "Wind with integrated battery storage",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 0,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WND",
+      "type_name": "Wind",
+      "timezone": "Arizona",
+      "timezone_description": "Arizona",
+      "value": 1193919,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WND",
+      "type_name": "Wind",
+      "timezone": "Central",
+      "timezone_description": "Central",
+      "value": 1200695,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WND",
+      "type_name": "Wind",
+      "timezone": "Eastern",
+      "timezone_description": "Eastern",
+      "value": 1205875,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WND",
+      "type_name": "Wind",
+      "timezone": "Mountain",
+      "timezone_description": "Mountain",
+      "value": 1195240,
+      "value_units": "megawatthours"
+    },
+    {
+      "period": "2025-06-17",
+      "respondent": "US48",
+      "respondent_name": "United States Lower 48",
+      "fueltype": "WND",
+      "type_name": "Wind",
+      "timezone": "Pacific",
+      "timezone_description": "Pacific",
+      "value": 1193919,
       "value_units": "megawatthours"
     }
   ],
   "description": "Daily net generation by balancing authority and energy source.  \n    Source: Form EIA-930\n    Product: Hourly Electric Grid Monitor",
   "latest": {
-    "date": "2025-06-16",
-    "updated": "2025-06-17 07:03",
+    "date": "2025-06-17",
+    "updated": "2025-06-18 07:03",
     "renewables": {
-      "megawatthours": 2571678,
-      "gigawatthours": 2572,
-      "percent": 21.06,
+      "megawatthours": 2974310,
+      "gigawatthours": 2974,
+      "percent": 22.94,
       "source": "Renewables"
     },
     "fossil_fuels": {
-      "megawatthours": 7235244,
-      "gigawatthours": 7235,
-      "percent": 59.26,
+      "megawatthours": 7605567,
+      "gigawatthours": 7606,
+      "percent": 58.65,
       "source": "Fossil Fuels"
     },
     "solar": {
-      "megawatthours": 962691,
-      "gigawatthours": 963,
-      "percent": 7.88,
+      "megawatthours": 970177,
+      "gigawatthours": 970,
+      "percent": 7.48,
       "source": "Solar"
     },
     "wind": {
-      "megawatthours": 820841,
-      "gigawatthours": 821,
-      "percent": 6.72,
+      "megawatthours": 1200695,
+      "gigawatthours": 1201,
+      "percent": 9.26,
       "source": "Wind"
     },
     "hydro": {
-      "megawatthours": 776909,
-      "gigawatthours": 777,
-      "percent": 6.36,
+      "megawatthours": 792439,
+      "gigawatthours": 792,
+      "percent": 6.11,
       "source": "Hydro"
     },
     "nuclear": {
-      "megawatthours": 2261529,
-      "gigawatthours": 2262,
-      "percent": 18.52,
+      "megawatthours": 2240220,
+      "gigawatthours": 2240,
+      "percent": 17.27,
       "source": "Nuclear"
     },
     "coal": {
-      "megawatthours": 2161714,
-      "gigawatthours": 2162,
-      "percent": 17.71,
+      "megawatthours": 2242534,
+      "gigawatthours": 2243,
+      "percent": 17.29,
       "source": "Coal"
     },
     "natural_gas": {
-      "megawatthours": 5068924,
-      "gigawatthours": 5069,
-      "percent": 41.52,
+      "megawatthours": 5343224,
+      "gigawatthours": 5343,
+      "percent": 41.2,
       "source": "Natural Gas"
     },
     "other": {
-      "megawatthours": 156621,
-      "gigawatthours": 157,
-      "percent": 1.28,
+      "megawatthours": 179087,
+      "gigawatthours": 179,
+      "percent": 1.38,
       "source": "Other"
     }
   },
   "history": {
     "total": [
       {
-        "date": "2025-06-03",
-        "megawatthours": 11710854,
-        "gigawatthours": 11711
-      },
-      {
         "date": "2025-06-04",
-        "megawatthours": 11812770,
-        "gigawatthours": 11813
+        "megawatthours": 11831537,
+        "gigawatthours": 11832
       },
       {
         "date": "2025-06-05",
@@ -14712,27 +14707,27 @@
       },
       {
         "date": "2025-06-06",
-        "megawatthours": 12409682,
-        "gigawatthours": 12410
+        "megawatthours": 12452832,
+        "gigawatthours": 12453
       },
       {
         "date": "2025-06-07",
-        "megawatthours": 11835547,
-        "gigawatthours": 11836
+        "megawatthours": 11879458,
+        "gigawatthours": 11879
       },
       {
         "date": "2025-06-08",
-        "megawatthours": 11607125,
-        "gigawatthours": 11607
+        "megawatthours": 11641408,
+        "gigawatthours": 11641
       },
       {
         "date": "2025-06-09",
-        "megawatthours": 12129890,
-        "gigawatthours": 12130
+        "megawatthours": 12168225,
+        "gigawatthours": 12168
       },
       {
         "date": "2025-06-10",
-        "megawatthours": 12121254,
+        "megawatthours": 12121237,
         "gigawatthours": 12121
       },
       {
@@ -14742,28 +14737,33 @@
       },
       {
         "date": "2025-06-12",
-        "megawatthours": 12454167,
+        "megawatthours": 12454254,
         "gigawatthours": 12454
       },
       {
         "date": "2025-06-13",
-        "megawatthours": 12340001,
+        "megawatthours": 12340003,
         "gigawatthours": 12340
       },
       {
         "date": "2025-06-14",
-        "megawatthours": 11787584,
+        "megawatthours": 11788031,
         "gigawatthours": 11788
       },
       {
         "date": "2025-06-15",
-        "megawatthours": 11608459,
-        "gigawatthours": 11608
+        "megawatthours": 11604682,
+        "gigawatthours": 11605
       },
       {
         "date": "2025-06-16",
-        "megawatthours": 9673673,
-        "gigawatthours": 9674
+        "megawatthours": 12431364,
+        "gigawatthours": 12431
+      },
+      {
+        "date": "2025-06-17",
+        "megawatthours": 12979625,
+        "gigawatthours": 12980
       }
     ]
   }
